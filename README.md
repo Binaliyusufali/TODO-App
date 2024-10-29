@@ -3,6 +3,7 @@
 Bu proje, React Native kullanarak geliştirilen bir TODO uygulaması çalışmasıdır. Bu uygulamada yeni bir todo girebilir ve bu todoları güncelleme şansınız olabilir. Todo başlatabilir, güncelleyebilir, iptal edebilir ve silebilirsiniz.
 
 <h3>Özellikler</h3>
+<b>TODO Oluşturm:</b> Yeni Todo oluşturmak ve detaylarını girmek için oluşturulan alan.</br>
 <b>TODO Sayfası:</b> Eklenen Todo'lar burada listelenir.</br>
 <b>TODO Detay Sayfası:</b> Todo'larınız detaylarına erişebilirsiniz.</br>
 <h3>Kullanılan Teknolojiler</h3></br>

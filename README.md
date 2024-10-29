@@ -7,7 +7,6 @@ Bu proje, React Native kullanarak geliştirilen bir TODO uygulaması çalışmas
 <b>TODO Detay Sayfası:</b> Todo'larınız detaylarına erişebilirsiniz.</br>
 <h3>Kullanılan Teknolojiler</h3></br>
 <b>React Native:</b> Mobil uygulama geliştirme</br>
-//<b>Expo:</b> Proje ortamı ve araçlar</br>
 <b>React Navigation:</b> Sayfa geçişleri</br>
 <b>İconsax:</b> Uygulama içinde kullanılan iconlar.</br>
 <b>moment:</b> Uygulama içinde kullanılan tarihlerin biçimlendirmesinde yararlanıldı.</br>

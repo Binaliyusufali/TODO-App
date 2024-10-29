@@ -12,4 +12,4 @@ Bu proje, React Native kullanarak geliştirilen bir TODO uygulaması çalışmas
 <b>İconsax:</b> Uygulama içinde kullanılan iconlar.</br>
 <b>moment:</b> Uygulama içinde kullanılan tarihlerin biçimlendirmesinde yararlanıldı.</br>
 
-<img src="todo.gif" >
+<img src="todo.gif" widht=200 height=300 >
